@@ -7,11 +7,12 @@
 }
 
 body {
-  /*Le ponemos color de fondo a toda la página web*/
-  background-color: lightgray;
-  /*Se pone margen en todos los laterales al Body de la página web*/
-  margin: 5%;
-  padding: 5%;
+  margin: 0;
+  padding: 0;
+  background: url(Fondo.jpg);
+  background-size: cover;
+  background-position: center;
+  font-family: sans-serif;
 }
 .divCentrado {
   background-color: darkgrey;
